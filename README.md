@@ -2,13 +2,13 @@
 
 #### Table of contents:
 
-[Improved versions of Stock windows](#one)
+[Improved versions of Stock windows](#improvedstock)
 
-[Practical mods for specific use cases](#two)
+[Practical mods for specific use cases](#practicalmods)
 
-[Mods made purely for customization](#three)
+[Mods made purely for customization](#novelties)
 
-<a name="one" />
+<a name="improvedstock" />
 
 ## Improved versions of Stock windows:
 
@@ -16,13 +16,13 @@
   
   [Windows 10 Debloated BSE](https://github.com/IveMalfunctioned/Win10DebloatedBSE) ([Screenshot](https://github.com/IveMalfunctioned/Win10DebloatedBSE#Screenshot)) - My debloated version of Windows 10, with better 3rd party software to replace some stock software
   
-<a name="two" />  
+<a name="practicalmods" />  
   
 ## Practical mods for specific use cases:
 
   [Windows Developer's Edition](https://github.com/IveMalfunctioned/CEV2) ([Screenshot](https://github.com/IveMalfunctioned/CEV2#Screenshot)) - Codenamed CEV2, is a customized version of 10 that includes software mainly for C++ and Python developers, and some for power users.
   
-<a name="three" />  
+<a name="novelties" />  
   
 ## Mods made purely for customization:
 
