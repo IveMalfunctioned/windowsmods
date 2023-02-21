@@ -27,3 +27,9 @@
 ## Mods made purely for customization:
 
   [wackOS](https://github.com/IveMalfunctioned/wackOS) ([Screenshots](https://github.com/IveMalfunctioned/wackOS#Screenshots)) - An upcoming customized version of Windows 10 meant to copy some UI elements of macOS in the style of Windows.
+
+⁯
+
+⁯
+
+If you would like to learn to create a Windows mod yourself, you can find the tutorials and resources in the [Windows Modding Discord](https://discord.gg/hzScjC9re6).
