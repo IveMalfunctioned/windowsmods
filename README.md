@@ -20,7 +20,7 @@
   
 ## Practical mods for specific use cases:
 
-  [CEV2](https://github.com/IveMalfunctioned/CEV2) ([Screenshot](https://github.com/IveMalfunctioned/CEV2#Screenshot)) - Windows Developer's Edition, a customized version of 10 that includes software mainly for C++ and Python developers, and some for power users.
+  [Windows Developer's Edition](https://github.com/IveMalfunctioned/CEV2) ([Screenshot](https://github.com/IveMalfunctioned/CEV2#Screenshot)) - Codenamed CEV2, is a customized version of 10 that includes software mainly for C++ and Python developers, and some for power users.
   
 <c name="3" />  
   
