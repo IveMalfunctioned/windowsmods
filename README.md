@@ -16,13 +16,13 @@
   
   [Windows 10 Debloated BSE](https://github.com/IveMalfunctioned/Win10DebloatedBSE) ([Screenshot](https://github.com/IveMalfunctioned/Win10DebloatedBSE#Screenshot)) - My debloated version of Windows 10, with better 3rd party software to replace some stock software
   
-<b name="two" />  
+<a name="two" />  
   
 ## Practical mods for specific use cases:
 
   [Windows Developer's Edition](https://github.com/IveMalfunctioned/CEV2) ([Screenshot](https://github.com/IveMalfunctioned/CEV2#Screenshot)) - Codenamed CEV2, is a customized version of 10 that includes software mainly for C++ and Python developers, and some for power users.
   
-<c name="three" />  
+<a name="three" />  
   
 ## Mods made purely for customization:
 
