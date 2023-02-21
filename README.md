@@ -2,11 +2,11 @@
 
 #### Table of contents:
 
-[Improved versions of Stock windows](one)
+[Improved versions of Stock windows](#one)
 
-[Practical mods for specific use cases](two)
+[Practical mods for specific use cases](#two)
 
-[Mods made purely for customization](three)
+[Mods made purely for customization](#three)
 
 <a name="one" />
 
