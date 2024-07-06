@@ -26,7 +26,7 @@
   
 <a name="novelties" />  
   
-## Mods made purely for customization:
+## Cosmetic mods:
 
   [wackOS](https://github.com/IveMalfunctioned/wackOS) ([Screenshots](https://github.com/IveMalfunctioned/wackOS#Screenshots)) - An upcoming customized version of Windows 10 meant to copy some UI elements of macOS in the style of Windows.
 
