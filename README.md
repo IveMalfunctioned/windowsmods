@@ -2,13 +2,13 @@
 
 #### Table of contents:
 
-[Improved versions of Stock windows](#improvedstock)
+[Improved versions of Stock windows](#improvedstockmods)
 
 [Practical mods for specific use cases](#practicalmods)
 
-[Mods made purely for customization](#novelties)
+[Cosmetic mods](#cosmeticmods)
 
-<a name="improvedstock" />
+<a name="improvedstockmods" />
 
 ## Improved versions of Stock windows:
 
@@ -24,7 +24,7 @@
 
   [Windows Developer's Edition](https://github.com/IveMalfunctioned/CEV2) ([Screenshot](https://github.com/IveMalfunctioned/CEV2#Screenshot)) - Codenamed CEV2, is a customized version of 10 that includes software mainly for C++ and Python developers, and some for power users.
   
-<a name="novelties" />  
+<a name="cosmeticmods" />  
   
 ## Cosmetic mods:
 
